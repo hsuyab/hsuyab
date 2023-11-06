@@ -36,8 +36,7 @@ and I am a Machine Learning and AI researcher with a strong passion for solving 
 If you are interested in more details, check out [my website]()!  
 -->
 PS: 
-- 📫 You can also find me on Twitter [(@hsuyab)](https://twitter.com/hsuyab),  
-- and [Linkedin](https://www.linkedin.com/in/ayushbihani/)!
+- 📫 You can also find me on Twitter [(@hsuyab)](https://twitter.com/hsuyab) and [Linkedin](https://www.linkedin.com/in/ayushbihani/)!
 
 
 
