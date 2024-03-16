@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I am Ayush 👋
 
-and I am a Machine Learning and AI researcher with a strong passion for solving human problems using technology.
+and I am a Machine Learning researcher with a strong passion for solving human problems using technology.
  
 - 👨🏻‍💻 As Researcher at [TCS Incubation](https://www.tcs.com/tcs-incubation), I am working on addressing the following problems:
   - Improving ⚡️ resource utililization and also making cloud usage more 🌱 sustainable.
