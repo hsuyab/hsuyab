@@ -1,42 +1,36 @@
-<!--
-### Hi there, I am Ayush 👋
 
+### Hi there, I’m Ayush 👋
 
-**hsuyab/hsuyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning researcher and engineer, currently pursuing my Master’s in Computer Science & Statistics at Purdue University. I specialize in building robust, efficient ML systems — from fine-tuning large language models to optimizing cloud infrastructure and scaling time series solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there, I am Ayush 👋
-
-and I am a Machine Learning researcher with a strong passion for solving human problems using technology.
- 
-- 👨🏻‍💻 As Researcher at [TCS Incubation](https://www.tcs.com/tcs-incubation), I am working on addressing the following problems:
-  - Improving ⚡️ resource utililization and also making cloud usage more 🌱 sustainable.
-  - Increasing the trust and confidence in time series forecasting by incorporating various uncertainty quantification methods
-    and explainability approaches for models.
-  - Building more 📈 accurate Time Series Forecasting models. 
-  - Working on generating counterfactuals for building more robust models.
-  
-- 💻 I am also passionate about contibuting to open source.
-- 🎮 But most of all, I am a passionate coder who loves open-source software! 
-- 📖 I love reading and enjoy listening to 🎧 podcasts.
 ---
 
-<!--
-If you are interested in more details, check out [my website]()!  
--->
-PS: 
-- 📫 You can also find me on Twitter [(@hsuyab)](https://twitter.com/hsuyab) and [Linkedin](https://www.linkedin.com/in/ayushbihani/)!
+#### 🧠 Research @ Purdue
 
+At Purdue, my research focuses on **spatial understanding in multimodal LLMs** — investigating whether models develop internal 3D world representations or rely on surface correlations. I’m using synthetic scene generation, mechanistic interpretability, and causal probes to uncover the underlying reasoning patterns.
 
+---
 
+#### 💼 Previously @ TCS Research
+
+As a Machine Learning Engineer, I:
+
+* 🧠 Fine-tuned LLMs (e.g., LLaMA 7B) for tool usage and function calling using synthetic data and LoRA-based optimization.
+* ⏱️ Designed a time series forecasting pipeline that outperformed Prophet by 36% (sMAPE) across 100+ regions with adaptive drift-handling and retraining.
+* ☁️ Built a cloud optimization framework for compute budget control, using runtime prediction models and resource scaling policies.
+
+---
+
+#### 🛠️ What I enjoy working on
+
+* Fine-tuning and aligning LLMs for reasoning and tool use.
+* Designing ML systems with low latency, high throughput, and cost efficiency.
+* Building agents that combine symbolic and neural reasoning for better real-world performance.
+* Open-ended research at the intersection of interpretability and generative AI.
+
+---
+
+#### 📫 Let’s connect
+
+* Twitter: [@hsuyab](https://twitter.com/hsuyab)
+* LinkedIn: [ayushbihani](https://www.linkedin.com/in/ayushbihani/)
