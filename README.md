@@ -1,7 +1,7 @@
 
 ### Hi there, I’m Ayush 👋
 
-I’m a Machine Learning researcher and engineer, currently pursuing my Master’s in Computer Science & Statistics at Purdue University. I specialize in building robust, efficient ML systems — from fine-tuning large language models to optimizing cloud infrastructure and scaling time series solutions.
+I’m a Machine Learning researcher and engineer, currently pursuing my Master’s in Computer Science & Statistics at Purdue University.
 
 ---
 
